@@ -1,0 +1,258 @@
+[
+  {
+    "title": "Aberdeen City",
+    "tonnes": [97.184],
+    "pkg": [441],
+    "subtitle": "Tonnes",
+    "ranges": [75,150,300],
+    "markers": [0]
+  },
+  {
+    "title": "Aberdeenshire",
+    "tonnes": [148.052],
+    "pkg": [598],
+    "subtitle": "Tonnes",
+    "ranges": [75,150,300],
+    "markers": [0]
+  },
+  {
+    "title": "Angus",
+    "tonnes": [62.2],
+    "pkg": [562],
+    "subtitle": "Tonnes",
+    "ranges": [75,150,300],
+    "markers": [0]
+  },
+  {
+    "title": "Argyll & Bute",
+    "tonnes": [46.301],
+    "pkg": [517],
+    "subtitle": "Tonnes",
+    "ranges": [75,150,300],
+    "markers": [0]
+  },
+  {
+    "title": "Clackmannanshire",
+    "tonnes": [30.598],
+    "pkg": [603],
+    "subtitle": "Tonnes",
+    "ranges": [75,150,300],
+    "markers": [0]
+  },
+  {
+    "title": "Dumfries & Galloway",
+    "tonnes": [81.62],
+    "pkg": [551],
+    "subtitle": "Tonnes",
+    "ranges": [75,150,300],
+    "markers": [0]
+  },
+  {
+    "title": "Dundee City",
+    "tonnes": [68.368],
+    "pkg": [470],
+    "subtitle": "Tonnes",
+    "ranges": [75,150,300],
+    "markers": [0]
+  },
+  {
+    "title": "East Ayrshire",
+    "tonnes": [61.087],
+    "pkg": [508],
+    "subtitle": "Tonnes",
+    "ranges": [75,150,300],
+    "markers": [0]
+  },
+  {
+    "title": "East Dunbartonshire",
+    "tonnes": [58.998],
+    "pkg": [564],
+    "subtitle": "Tonnes",
+    "ranges": [75,150,300],
+    "markers": [0]
+  },
+  {
+    "title": "East Lothian",
+    "tonnes": [53.163],
+    "pkg": [542],
+    "subtitle": "Tonnes",
+    "ranges": [75,150,300],
+    "markers": [0]
+  },
+  {
+    "title": "East Renfrewshire",
+    "tonnes": [45.191],
+    "pkg": [503],
+    "subtitle": "Tonnes",
+    "ranges": [75,150,300],
+    "markers": [0]
+  },
+  {
+    "title": "Edinburgh, City of",
+    "tonnes": [189.697],
+    "pkg": [383],
+    "subtitle": "Tonnes",
+    "ranges": [75,150,300],
+    "markers": [0]
+  },
+  {
+    "title": "Eilean Siar",
+    "tonnes": [16.509],
+    "pkg": [633],
+    "subtitle": "Tonnes",
+    "ranges": [75,150,300],
+    "markers": [0]
+  },
+  {
+    "title": "Falkirk",
+    "tonnes": [78.177],
+    "pkg": [506],
+    "subtitle": "Tonnes",
+    "ranges": [75,150,300],
+    "markers": [0]
+  },
+  {
+    "title": "Fife",
+    "tonnes": [214.552],
+    "pkg": [584],
+    "subtitle": "Tonnes",
+    "ranges": [75,150,300],
+    "markers": [0]
+  },
+  {
+    "title": "Glasgow City",
+    "tonnes": [250.709],
+    "pkg": [419],
+    "subtitle": "Tonnes",
+    "ranges": [75,150,300],
+    "markers": [0]
+  },
+  {
+    "title": "Highland",
+    "tonnes": [125.454],
+    "pkg": [564],
+    "subtitle": "Tonnes",
+    "ranges": [75,150,300],
+    "markers": [0]
+  },
+  {
+    "title": "Inverclyde",
+    "tonnes": [33.937],
+    "pkg": [428],
+    "subtitle": "Tonnes",
+    "ranges": [75,150,300],
+    "markers": [0]
+  },
+  {
+    "title": "Midlothian",
+    "tonnes": [43.849],
+    "pkg": [532],
+    "subtitle": "Tonnes",
+    "ranges": [75,150,300],
+    "markers": [0]
+  },
+  {
+    "title": "Moray",
+    "tonnes": [52.334],
+    "pkg": [600],
+    "subtitle": "Tonnes",
+    "ranges": [75,150,300],
+    "markers": [0]
+  },
+  {
+    "title": "North Ayrshire",
+    "tonnes": [68.312],
+    "pkg": [506],
+    "subtitle": "Tonnes",
+    "ranges": [75,150,300],
+    "markers": [0]
+  },
+  {
+    "title": "North Lanarkshire",
+    "tonnes": [160.246],
+    "pkg": [491],
+    "subtitle": "Tonnes",
+    "ranges": [75,150,300],
+    "markers": [0]
+  },
+  {
+    "title": "Orkney Islands",
+    "tonnes": [10.255],
+    "pkg": [509],
+    "subtitle": "Tonnes",
+    "ranges": [75,150,300],
+    "markers": [0]
+  },
+  {
+    "title": "Perth & Kinross",
+    "tonnes": [79.918],
+    "pkg": [534],
+    "subtitle": "Tonnes",
+    "ranges": [75,150,300],
+    "markers": [0]
+  },
+  {
+    "title": "Renfrewshire",
+    "tonnes": [82.571],
+    "pkg": [484],
+    "subtitle": "Tonnes",
+    "ranges": [75,150,300],
+    "markers": [0]
+  },
+  {
+    "title": "Scottish Borders",
+    "tonnes": [53.822],
+    "pkg": [476],
+    "subtitle": "Tonnes",
+    "ranges": [75,150,300],
+    "markers": [0]
+  },
+  {
+    "title": "Shetland Islands",
+    "tonnes": [11.792],
+    "pkg": [524],
+    "subtitle": "Tonnes",
+    "ranges": [75,150,300],
+    "markers": [0]
+  },
+  {
+    "title": "South Ayrshire",
+    "tonnes": [58.481],
+    "pkg": [524],
+    "subtitle": "Tonnes",
+    "ranges": [75,150,300],
+    "markers": [0]
+  },
+  {
+    "title": "South Lanarkshire",
+    "tonnes": [163.214],
+    "pkg": [522],
+    "subtitle": "Tonnes",
+    "ranges": [75,150,300],
+    "markers": [0]
+  },
+  {
+    "title": "Stirling",
+    "tonnes": [44.024],
+    "pkg": [485],
+    "subtitle": "Tonnes",
+    "ranges": [75,150,300],
+    "markers": [0]
+  },
+  {
+    "title": "West Dunbartonshire",
+    "tonnes": [41.168],
+    "pkg": [456],
+    "subtitle": "Tonnes",
+    "ranges": [75,150,300],
+    "markers": [0]
+  },
+  {
+    "title": "West Lothian",
+    "tonnes": [74.976],
+    "pkg": [433],
+    "subtitle": "Tonnes",
+    "ranges": [75,150,300],
+    "markers": [0]
+  }
+]
